@@ -1,0 +1,90 @@
+﻿@using Moguls.Live.Web.v2.Data
+@inherits LiveResultComponent
+@if (Results == null)
+{
+    <div style="margin-bottom: 50px;">
+        <div style="width: 200px;">
+            <div class="mb-3">
+                <label class="form-label">Tävling</label>
+                <input class="form-control" style="height: 50px;" @bind="Id" type="text" />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Resultattabell</label>
+                <input class="form-control" style="height: 50px;" @bind="ResultTable" type="text" />
+            </div>
+        </div>
+        <div>
+            <button class="btn btn-primary" @onclick="Load">Hämta vald tävling</button>
+        </div>
+    </div>
+}
+else
+{
+    <div style="margin-bottom: 300px; width: 700px; float: right;">
+        <table class="table table-borderless">
+            <thead>
+                <tr>
+                    <th>Place</th>
+                    <th>Country</th>
+                    <th style="width: 400px;">Name</th>
+                    <th>Score</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr style="font-size: 20px;">
+                    <td><b>@LastRun.Rank</b></td>
+                    <td><b>@LastRun.Nationality</b></td>
+                    <td><b>@LastRun.Name</b></td>
+                    <td><b>@LastRun.Score</b></td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+
+    <div class="clearfix"></div>
+
+    <div style="width: 200px;">
+        <div class="mb-3">
+            <label class="form-label">Tävling</label>
+            <input class="form-control" @bind="Id" type="text" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Resultattabell</label>
+            <input class="form-control" @bind="ResultTable" type="text" />
+        </div>
+    </div>
+    <button class="btn btn-primary" @onclick="Load">Ladda om</button>
+    <div>
+        <span>Uppdaterad senast (UTC): </span>
+        <span style="padding-left: 5px;">@LastUpdate.ToLongTimeString()</span>
+    </div>
+
+    <h1>Alla åkare</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Placering</th>
+                <th>Startnummer</th>
+                <th>BiB</th>
+                <th>Namn</th>
+                <th>Land</th>
+                <th>Poäng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var r in Results)
+            {
+                <tr>
+                    <td><b>@r.Rank</b></td>
+                    <td><b>@r.StartNumber</b></td>
+                    <td>@r.Bib</td>
+                    <td>@r.Name</td>
+                    <td>@r.Nationality</td>
+                    <td><b>@r.Score</b></td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+}

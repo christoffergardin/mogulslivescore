@@ -1,0 +1,18 @@
+﻿@using Moguls.Live.Web.v2.Data
+@inherits SelectComponent
+
+@if (!Singel && !Dual)
+{
+    <button @onclick="@onClickSingel">Singel</button>
+
+    <button @onclick="@onClickDual">Dual</button>
+}
+@if (Singel)
+{
+    <LiveResults/>
+}
+
+@if (Dual)
+{
+    <LiveResultsDual/>
+}

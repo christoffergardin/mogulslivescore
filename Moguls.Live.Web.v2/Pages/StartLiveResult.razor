@@ -1,0 +1,21 @@
+﻿
+@inherits StartLiveResultComponent
+
+@if (Show)
+{
+    <div style="margin-bottom: 50px;">
+        <div style="width: 200px;">
+            <div class="mb-3">
+                <label class="form-label">Tävling</label>
+                <input class="form-control" @bind="Id" type="text" />
+            </div>
+            <div class="mb-3">
+                <label  class="form-label">Resultattabell</label>
+                <input class="form-control" @bind="ResultTable" type="text" />
+            </div>
+        </div>
+        <div>
+            <button class="btn btn-primary" @onclick="Load">Hämta vald tävling</button>
+        </div>
+    </div>
+}

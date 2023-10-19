@@ -1,0 +1,66 @@
+﻿@*@page "/fetchdata"*@
+@using Moguls.Live.Web.Shared
+@inject HttpClient Http
+
+<h1>Alla åkare</h1>
+
+<div style="margin-bottom: 50px;">
+<input @bind="id" type="text" />
+<button class="btn btn-primary" @onclick="Load">Hämta vald tävling</button>
+</div>
+@if (results == null)
+{
+	<p><em>Loading...</em></p>
+}
+else
+{
+
+	@*<table class="table">
+		<thead>
+			<tr>
+				<th>Rank</th>
+				<th>StNr</th>
+				<th>BIB</th>
+				<th>Namn</th>
+				<th>Nsa</th>
+				<th>Score</th>
+            </tr>
+		</thead>
+        <tbody>
+		@foreach (var r in results)
+		{
+		    <tr>
+                <td>@r.Rank</td>
+                <td>@r.StNr</td>
+                <td>@r.Bib</td>
+                <td>@r.Name</td>
+                <td>@r.Nsa</td>
+                <td>@r.Score</td>
+
+
+            </tr>
+		}
+
+        </tbody>
+	</table>*@
+}
+
+@code {
+
+	private List<ResultModel> results;
+	private string id;
+
+	protected override async Task OnInitializedAsync()
+	{
+		id = "scmo";
+		//forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("WeatherForecast");
+	    //results = await Http.GetFromJsonAsync<List<ResultModel>>($"Result/{id}");
+	}
+
+	protected async Task Load()
+	{
+	    results = await Http.GetFromJsonAsync<List<ResultModel>>($"Result/{id}");
+		//await InvokeAsync(StateHasChanged);
+	}
+
+}

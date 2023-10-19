@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Moguls.Live.Web.v2", "Moguls.Live.Web.v2\Moguls.Live.Web.v2.csproj", "{74DC84A8-CFC2-468D-9022-1961EF8ED7F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MogulTest", "MogulTest\MogulTest.csproj", "{D5D78BAF-6BBA-4C36-AE80-F484071802DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74DC84A8-CFC2-468D-9022-1961EF8ED7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DC84A8-CFC2-468D-9022-1961EF8ED7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DC84A8-CFC2-468D-9022-1961EF8ED7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DC84A8-CFC2-468D-9022-1961EF8ED7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D78BAF-6BBA-4C36-AE80-F484071802DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D78BAF-6BBA-4C36-AE80-F484071802DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D78BAF-6BBA-4C36-AE80-F484071802DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D78BAF-6BBA-4C36-AE80-F484071802DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F24EC91B-CCA6-4E90-BB7E-129AD9F8DC15}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6894 @@
+{
+  "updates": [
+    {
+      "competitionResultRevision": 438,
+      "resultTableId": 100401,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "1",
+                {
+                  "text": "MACUGA Alli",
+                  "fisCode": "2534186"
+                },
+                "USA",
+                " "
+              ]
+            ],
+            "athleteUuid": "6a97b1cb-0971-45db-8aee-6fc351b8eb6c",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 439,
+      "resultTableId": 100402,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "28",
+                {
+                  "text": "JOLY Lily",
+                  "fisCode": "2538028"
+                },
+                "FRA",
+                "34.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "467e3c10-1615-4d4d-8b3b-8323ee5aeb28",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "38",
+                {
+                  "text": "EDWARDS Cree Karen",
+                  "fisCode": "2539661"
+                },
+                "ITA",
+                "1.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "d5cab579-f964-4cec-92cd-461d5a4d3c12",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 440,
+      "resultTableId": 100403,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "23",
+                {
+                  "text": "SPEIRS Indiana",
+                  "fisCode": "2535889"
+                },
+                "AUS",
+                " "
+              ]
+            ],
+            "athleteUuid": "3c59cc09-abde-46ce-b071-5f134a5c0287",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 441,
+      "resultTableId": 100404,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "9",
+                {
+                  "text": "GUSTAFSON Moa",
+                  "fisCode": "2535767"
+                },
+                "SWE",
+                " "
+              ]
+            ],
+            "athleteUuid": "a9afdb82-0c48-4cf8-b326-2dc73681f184",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 442,
+      "resultTableId": 100405,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "17",
+                {
+                  "text": "LODGE Lottie",
+                  "fisCode": "2538154"
+                },
+                "AUS",
+                " "
+              ]
+            ],
+            "athleteUuid": "34e08cef-bc23-4809-b504-3599238a4eea",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 443,
+      "resultTableId": 100406,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "25",
+                {
+                  "text": "PASSARETTA Manuela",
+                  "fisCode": "2537886"
+                },
+                "ITA",
+                " "
+              ]
+            ],
+            "athleteUuid": "e90f3660-6893-46a7-b0ad-6fe0d7b6cc2c",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 444,
+      "resultTableId": 100407,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "29",
+                {
+                  "text": "BERTRAND Lise",
+                  "fisCode": "2538642"
+                },
+                "FRA",
+                " "
+              ]
+            ],
+            "athleteUuid": "e9cccbdd-9610-4a57-84bd-e4c86e036eea",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 445,
+      "resultTableId": 100408,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "6",
+                {
+                  "text": "ITO Marin",
+                  "fisCode": "2534824"
+                },
+                "JPN",
+                " "
+              ]
+            ],
+            "athleteUuid": "74af78cf-19d3-4086-81c3-ad237dd0c08e",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 446,
+      "resultTableId": 100409,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "7",
+                {
+                  "text": "TAGUCHI Yuma",
+                  "fisCode": "2537043"
+                },
+                "JPN",
+                " "
+              ]
+            ],
+            "athleteUuid": "b95896e3-ac49-4260-a0cb-4984597102d4",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 447,
+      "resultTableId": 100410,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "32",
+                {
+                  "text": "LARIONOVA Anastassiya",
+                  "fisCode": "2539212"
+                },
+                "KAZ",
+                " "
+              ]
+            ],
+            "athleteUuid": "57d5c75b-00c0-47ed-a180-edd60c4c9176",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 448,
+      "resultTableId": 100411,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "33",
+                {
+                  "text": "BOYCHUK Citrine",
+                  "fisCode": "2539124"
+                },
+                "CAN",
+                " "
+              ]
+            ],
+            "athleteUuid": "978eedf5-6732-4a89-93ac-5d502da7b8f9",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 449,
+      "resultTableId": 100412,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "16",
+                {
+                  "text": "MIZUNUMA Rina",
+                  "fisCode": "2535903"
+                },
+                "JPN",
+                " "
+              ]
+            ],
+            "athleteUuid": "3fbc9b7b-5f6c-42bc-b214-aada85cbcafb",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 450,
+      "resultTableId": 100413,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "12",
+                {
+                  "text": "WILSON Charlotte",
+                  "fisCode": "2535796"
+                },
+                "AUS",
+                " "
+              ]
+            ],
+            "athleteUuid": "200468f0-ee70-4801-b2e1-dca6e66cd456",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 451,
+      "resultTableId": 100414,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "21",
+                {
+                  "text": "DOOLEY Claire",
+                  "fisCode": "2535435"
+                },
+                "IRL",
+                " "
+              ]
+            ],
+            "athleteUuid": "02155809-8d1c-4247-92a7-26cec3fb9c21",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 452,
+      "resultTableId": 100415,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "31",
+                {
+                  "text": "BIERENS Pien",
+                  "fisCode": "2534372"
+                },
+                "NED",
+                "26.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "54a3179b-107f-460f-9b11-516f88aae69d",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "37",
+                {
+                  "text": "FRENKEL Natcha",
+                  "fisCode": "2539564"
+                },
+                "THA",
+                "9.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "2c1540f2-f441-4e43-a1fb-dddb2b6cde57",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 453,
+      "resultTableId": 100416,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "3",
+                {
+                  "text": "KARIOTIS Kylie",
+                  "fisCode": "2534866"
+                },
+                "USA",
+                " "
+              ]
+            ],
+            "athleteUuid": "c08463d9-f5f0-49ae-91e3-7bcab65cdf63",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 454,
+      "resultTableId": 100417,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "4",
+                {
+                  "text": "HOGG Kasey",
+                  "fisCode": "2534251"
+                },
+                "USA",
+                " "
+              ]
+            ],
+            "athleteUuid": "55f6f388-61fb-46bb-966c-f865612c4e1b",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 455,
+      "resultTableId": 100418,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "34",
+                {
+                  "text": "RUIZ LOPEZ Hada",
+                  "fisCode": "2538017"
+                },
+                "ESP",
+                "18.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "082a2792-7377-482b-9d17-4ede510041ae",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "39",
+                {
+                  "text": "TIMPONE Sofia Carla",
+                  "fisCode": "2539655"
+                },
+                "ITA",
+                "17.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "38828a91-0fa5-4664-b48e-3ea90a938e9d",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 456,
+      "resultTableId": 100419,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "20",
+                {
+                  "text": "STENKULA Nicolina",
+                  "fisCode": "2537789"
+                },
+                "SWE",
+                " "
+              ]
+            ],
+            "athleteUuid": "c37ccba1-9078-4e2b-a957-131dc156db8a",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 457,
+      "resultTableId": 100420,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "13",
+                {
+                  "text": "MERZ Annika",
+                  "fisCode": "2535327"
+                },
+                "GER",
+                " "
+              ]
+            ],
+            "athleteUuid": "ecca6d75-9186-4288-8cf3-4023179fa5c1",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 458,
+      "resultTableId": 100421,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "11",
+                {
+                  "text": "CONN Lynnette",
+                  "fisCode": "2535874"
+                },
+                "CAN",
+                " "
+              ]
+            ],
+            "athleteUuid": "375c8bc2-b1dc-490d-98be-3d9bf519b0e2",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 459,
+      "resultTableId": 100422,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "18",
+                {
+                  "text": "YANG Ya",
+                  "fisCode": "2537259"
+                },
+                "CHN",
+                " "
+              ]
+            ],
+            "athleteUuid": "f6871314-ff99-4001-a0e0-fffa9ab1b0f0",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 460,
+      "resultTableId": 100423,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "24",
+                {
+                  "text": "DUAUX Marie",
+                  "fisCode": "2537443"
+                },
+                "FRA",
+                " "
+              ]
+            ],
+            "athleteUuid": "2f941de3-8831-478d-a205-413594a5f8d2",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 461,
+      "resultTableId": 100424,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "10",
+                {
+                  "text": "KOEHLER Ashley",
+                  "fisCode": "2534528"
+                },
+                "CAN",
+                " "
+              ]
+            ],
+            "athleteUuid": "6d3350f6-7cf0-4e64-b767-0bf2bddfd6c3",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 462,
+      "resultTableId": 100425,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "5",
+                {
+                  "text": "ASANO Shiori",
+                  "fisCode": "2534377"
+                },
+                "JPN",
+                " "
+              ]
+            ],
+            "athleteUuid": "eb7d3027-2406-4fc5-9a29-a5b29b0c3d79",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 463,
+      "resultTableId": 100426,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "30",
+                {
+                  "text": "MALHERBE Malica",
+                  "fisCode": "2535457"
+                },
+                "RSA",
+                " "
+              ]
+            ],
+            "athleteUuid": "f3a2a58c-2331-4adf-905f-68d763753d8b",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 464,
+      "resultTableId": 100427,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "19",
+                {
+                  "text": "YUN Shin-Ee",
+                  "fisCode": "2537929"
+                },
+                "KOR",
+                " "
+              ]
+            ],
+            "athleteUuid": "81ffc20d-f60a-4061-ac07-be8de2801194",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 465,
+      "resultTableId": 100428,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "26",
+                {
+                  "text": "LI Ruilin",
+                  "fisCode": "2537198"
+                },
+                "CHN",
+                " "
+              ]
+            ],
+            "athleteUuid": "73d00a1f-b45e-4b12-98c6-10978c1ad3ab",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 466,
+      "resultTableId": 100429,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "14",
+                {
+                  "text": "SLETTENE Skylar",
+                  "fisCode": "2535377"
+                },
+                "USA",
+                " "
+              ]
+            ],
+            "athleteUuid": "861868fc-e1e8-4f68-a9ee-866df8414db7",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 467,
+      "resultTableId": 100430,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "22",
+                {
+                  "text": "MICHL Katharina",
+                  "fisCode": "2537759"
+                },
+                "GER",
+                " "
+              ]
+            ],
+            "athleteUuid": "0b5b6a46-d385-4081-aee3-e52dc683c8dd",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 468,
+      "resultTableId": 100431,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "27",
+                {
+                  "text": "COUFALOVA Eliska",
+                  "fisCode": "2534580"
+                },
+                "CZE",
+                "29.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "f865ca0a-4a3a-4b72-ac34-bbe6272a5c58",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "35",
+                {
+                  "text": "KISIL Yuliana",
+                  "fisCode": "2538191"
+                },
+                "UKR",
+                "6.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "d46bae3f-da99-437e-80fc-6b4573e680dd",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 469,
+      "resultTableId": 100432,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "2",
+                {
+                  "text": "CAO Tianqing",
+                  "fisCode": "2537262"
+                },
+                "CHN",
+                " "
+              ]
+            ],
+            "athleteUuid": "7f63d7d7-a59a-48a1-910e-9568c6d0c3fa",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 470,
+      "resultTableId": 100501,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "1",
+                {
+                  "text": "MACUGA Alli",
+                  "fisCode": "2534186"
+                },
+                "USA",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "6a97b1cb-0971-45db-8aee-6fc351b8eb6c",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "28",
+                {
+                  "text": "JOLY Lily",
+                  "fisCode": "2538028"
+                },
+                "FRA",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "467e3c10-1615-4d4d-8b3b-8323ee5aeb28",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 471,
+      "resultTableId": 100502,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "9",
+                {
+                  "text": "GUSTAFSON Moa",
+                  "fisCode": "2535767"
+                },
+                "SWE",
+                "21.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "a9afdb82-0c48-4cf8-b326-2dc73681f184",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "23",
+                {
+                  "text": "SPEIRS Indiana",
+                  "fisCode": "2535889"
+                },
+                "AUS",
+                "14.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "3c59cc09-abde-46ce-b071-5f134a5c0287",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 472,
+      "resultTableId": 100503,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "17",
+                {
+                  "text": "LODGE Lottie",
+                  "fisCode": "2538154"
+                },
+                "AUS",
+                "19.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "34e08cef-bc23-4809-b504-3599238a4eea",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "25",
+                {
+                  "text": "PASSARETTA Manuela",
+                  "fisCode": "2537886"
+                },
+                "ITA",
+                "16.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "e90f3660-6893-46a7-b0ad-6fe0d7b6cc2c",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 473,
+      "resultTableId": 100504,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "6",
+                {
+                  "text": "ITO Marin",
+                  "fisCode": "2534824"
+                },
+                "JPN",
+                "28.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "74af78cf-19d3-4086-81c3-ad237dd0c08e",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "29",
+                {
+                  "text": "BERTRAND Lise",
+                  "fisCode": "2538642"
+                },
+                "FRA",
+                "7.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "e9cccbdd-9610-4a57-84bd-e4c86e036eea",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 474,
+      "resultTableId": 100505,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "7",
+                {
+                  "text": "TAGUCHI Yuma",
+                  "fisCode": "2537043"
+                },
+                "JPN",
+                "29.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "b95896e3-ac49-4260-a0cb-4984597102d4",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "32",
+                {
+                  "text": "LARIONOVA Anastassiya",
+                  "fisCode": "2539212"
+                },
+                "KAZ",
+                "6.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "57d5c75b-00c0-47ed-a180-edd60c4c9176",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 475,
+      "resultTableId": 100506,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "33",
+                {
+                  "text": "BOYCHUK Citrine",
+                  "fisCode": "2539124"
+                },
+                "CAN",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "978eedf5-6732-4a89-93ac-5d502da7b8f9",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "16",
+                {
+                  "text": "MIZUNUMA Rina",
+                  "fisCode": "2535903"
+                },
+                "JPN",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "3fbc9b7b-5f6c-42bc-b214-aada85cbcafb",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 476,
+      "resultTableId": 100507,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "21",
+                {
+                  "text": "DOOLEY Claire",
+                  "fisCode": "2535435"
+                },
+                "IRL",
+                "18.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "02155809-8d1c-4247-92a7-26cec3fb9c21",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "12",
+                {
+                  "text": "WILSON Charlotte",
+                  "fisCode": "2535796"
+                },
+                "AUS",
+                "17.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "200468f0-ee70-4801-b2e1-dca6e66cd456",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 477,
+      "resultTableId": 100508,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "3",
+                {
+                  "text": "KARIOTIS Kylie",
+                  "fisCode": "2534866"
+                },
+                "USA",
+                "26.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "c08463d9-f5f0-49ae-91e3-7bcab65cdf63",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "31",
+                {
+                  "text": "BIERENS Pien",
+                  "fisCode": "2534372"
+                },
+                "NED",
+                "9.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "54a3179b-107f-460f-9b11-516f88aae69d",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 478,
+      "resultTableId": 100509,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "4",
+                {
+                  "text": "HOGG Kasey",
+                  "fisCode": "2534251"
+                },
+                "USA",
+                "30.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "55f6f388-61fb-46bb-966c-f865612c4e1b",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "34",
+                {
+                  "text": "RUIZ LOPEZ Hada",
+                  "fisCode": "2538017"
+                },
+                "ESP",
+                "5.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "082a2792-7377-482b-9d17-4ede510041ae",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 479,
+      "resultTableId": 100510,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "13",
+                {
+                  "text": "MERZ Annika",
+                  "fisCode": "2535327"
+                },
+                "GER",
+                "26.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "ecca6d75-9186-4288-8cf3-4023179fa5c1",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "20",
+                {
+                  "text": "STENKULA Nicolina",
+                  "fisCode": "2537789"
+                },
+                "SWE",
+                "9.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "c37ccba1-9078-4e2b-a957-131dc156db8a",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 480,
+      "resultTableId": 100511,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "11",
+                {
+                  "text": "CONN Lynnette",
+                  "fisCode": "2535874"
+                },
+                "CAN",
+                "21.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "375c8bc2-b1dc-490d-98be-3d9bf519b0e2",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "18",
+                {
+                  "text": "YANG Ya",
+                  "fisCode": "2537259"
+                },
+                "CHN",
+                "14.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "f6871314-ff99-4001-a0e0-fffa9ab1b0f0",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 481,
+      "resultTableId": 100512,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "10",
+                {
+                  "text": "KOEHLER Ashley",
+                  "fisCode": "2534528"
+                },
+                "CAN",
+                "24.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "6d3350f6-7cf0-4e64-b767-0bf2bddfd6c3",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "24",
+                {
+                  "text": "DUAUX Marie",
+                  "fisCode": "2537443"
+                },
+                "FRA",
+                "11.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "2f941de3-8831-478d-a205-413594a5f8d2",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 482,
+      "resultTableId": 100513,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "5",
+                {
+                  "text": "ASANO Shiori",
+                  "fisCode": "2534377"
+                },
+                "JPN",
+                "20.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "eb7d3027-2406-4fc5-9a29-a5b29b0c3d79",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "30",
+                {
+                  "text": "MALHERBE Malica",
+                  "fisCode": "2535457"
+                },
+                "RSA",
+                "15.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "f3a2a58c-2331-4adf-905f-68d763753d8b",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 483,
+      "resultTableId": 100514,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "19",
+                {
+                  "text": "YUN Shin-Ee",
+                  "fisCode": "2537929"
+                },
+                "KOR",
+                "19.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "81ffc20d-f60a-4061-ac07-be8de2801194",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "26",
+                {
+                  "text": "LI Ruilin",
+                  "fisCode": "2537198"
+                },
+                "CHN",
+                "16.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "73d00a1f-b45e-4b12-98c6-10978c1ad3ab",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 484,
+      "resultTableId": 100515,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "14",
+                {
+                  "text": "SLETTENE Skylar",
+                  "fisCode": "2535377"
+                },
+                "USA",
+                "27.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "861868fc-e1e8-4f68-a9ee-866df8414db7",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "22",
+                {
+                  "text": "MICHL Katharina",
+                  "fisCode": "2537759"
+                },
+                "GER",
+                "8.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "0b5b6a46-d385-4081-aee3-e52dc683c8dd",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 485,
+      "resultTableId": 100516,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "27",
+                {
+                  "text": "COUFALOVA Eliska",
+                  "fisCode": "2534580"
+                },
+                "CZE",
+                "34.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "f865ca0a-4a3a-4b72-ac34-bbe6272a5c58",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "2",
+                {
+                  "text": "CAO Tianqing",
+                  "fisCode": "2537262"
+                },
+                "CHN",
+                "1.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "7f63d7d7-a59a-48a1-910e-9568c6d0c3fa",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 486,
+      "resultTableId": 100601,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "1",
+                {
+                  "text": "MACUGA Alli",
+                  "fisCode": "2534186"
+                },
+                "USA",
+                "27.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "6a97b1cb-0971-45db-8aee-6fc351b8eb6c",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "9",
+                {
+                  "text": "GUSTAFSON Moa",
+                  "fisCode": "2535767"
+                },
+                "SWE",
+                "8.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "a9afdb82-0c48-4cf8-b326-2dc73681f184",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 487,
+      "resultTableId": 100602,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "6",
+                {
+                  "text": "ITO Marin",
+                  "fisCode": "2534824"
+                },
+                "JPN",
+                "32.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "74af78cf-19d3-4086-81c3-ad237dd0c08e",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "17",
+                {
+                  "text": "LODGE Lottie",
+                  "fisCode": "2538154"
+                },
+                "AUS",
+                "3.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "34e08cef-bc23-4809-b504-3599238a4eea",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 488,
+      "resultTableId": 100603,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "7",
+                {
+                  "text": "TAGUCHI Yuma",
+                  "fisCode": "2537043"
+                },
+                "JPN",
+                "23.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "b95896e3-ac49-4260-a0cb-4984597102d4",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "33",
+                {
+                  "text": "BOYCHUK Citrine",
+                  "fisCode": "2539124"
+                },
+                "CAN",
+                "12.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "978eedf5-6732-4a89-93ac-5d502da7b8f9",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 489,
+      "resultTableId": 100604,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "3",
+                {
+                  "text": "KARIOTIS Kylie",
+                  "fisCode": "2534866"
+                },
+                "USA",
+                "20.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "c08463d9-f5f0-49ae-91e3-7bcab65cdf63",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "21",
+                {
+                  "text": "DOOLEY Claire",
+                  "fisCode": "2535435"
+                },
+                "IRL",
+                "15.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "02155809-8d1c-4247-92a7-26cec3fb9c21",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 490,
+      "resultTableId": 100605,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "4",
+                {
+                  "text": "HOGG Kasey",
+                  "fisCode": "2534251"
+                },
+                "USA",
+                "31.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "55f6f388-61fb-46bb-966c-f865612c4e1b",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "13",
+                {
+                  "text": "MERZ Annika",
+                  "fisCode": "2535327"
+                },
+                "GER",
+                "4.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "ecca6d75-9186-4288-8cf3-4023179fa5c1",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 491,
+      "resultTableId": 100606,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "10",
+                {
+                  "text": "KOEHLER Ashley",
+                  "fisCode": "2534528"
+                },
+                "CAN",
+                "31.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "6d3350f6-7cf0-4e64-b767-0bf2bddfd6c3",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "11",
+                {
+                  "text": "CONN Lynnette",
+                  "fisCode": "2535874"
+                },
+                "CAN",
+                "4.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "375c8bc2-b1dc-490d-98be-3d9bf519b0e2",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 492,
+      "resultTableId": 100607,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "5",
+                {
+                  "text": "ASANO Shiori",
+                  "fisCode": "2534377"
+                },
+                "JPN",
+                "30.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "eb7d3027-2406-4fc5-9a29-a5b29b0c3d79",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "19",
+                {
+                  "text": "YUN Shin-Ee",
+                  "fisCode": "2537929"
+                },
+                "KOR",
+                "5.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "81ffc20d-f60a-4061-ac07-be8de2801194",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 493,
+      "resultTableId": 100608,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "14",
+                {
+                  "text": "SLETTENE Skylar",
+                  "fisCode": "2535377"
+                },
+                "USA",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "861868fc-e1e8-4f68-a9ee-866df8414db7",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "27",
+                {
+                  "text": "COUFALOVA Eliska",
+                  "fisCode": "2534580"
+                },
+                "CZE",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "f865ca0a-4a3a-4b72-ac34-bbe6272a5c58",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 502,
+      "resultTableId": 200401,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "1",
+                {
+                  "text": "GRAVENFORS Filip",
+                  "fisCode": "2534858"
+                },
+                "SWE",
+                " "
+              ]
+            ],
+            "athleteUuid": "52b40dbe-4393-4b24-aceb-07116ccb9fd5",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 503,
+      "resultTableId": 200402,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "38",
+                {
+                  "text": "SAUVAGEAU Jeremy",
+                  "fisCode": "2538702"
+                },
+                "CAN",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "be9c1444-0023-45d5-875f-c2c29e125de3",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "33",
+                {
+                  "text": "WANG Renda",
+                  "fisCode": "2537252"
+                },
+                "CHN",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "8385b98d-6590-47c8-b44a-2c7b1946da65",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 504,
+      "resultTableId": 200403,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "21",
+                {
+                  "text": "BUGAKOV Fyodor",
+                  "fisCode": "2535809"
+                },
+                "KAZ",
+                " "
+              ]
+            ],
+            "athleteUuid": "3a44fada-4d10-493a-a2e0-33973a325180",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 505,
+      "resultTableId": 200404,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "20",
+                {
+                  "text": "KAWATA Jumpei",
+                  "fisCode": "2534825"
+                },
+                "JPN",
+                " "
+              ]
+            ],
+            "athleteUuid": "e81a6ea2-cec9-4383-b815-47bc740292a4",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 506,
+      "resultTableId": 200405,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "13",
+                {
+                  "text": "OZASA Kaisei",
+                  "fisCode": "2537149"
+                },
+                "JPN",
+                " "
+              ]
+            ],
+            "athleteUuid": "90d69f25-4f26-419a-95c1-819a8da10551",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 507,
+      "resultTableId": 200406,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "32",
+                {
+                  "text": "DUBUC Joey",
+                  "fisCode": "2535858"
+                },
+                "CAN",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "9e2ee3b7-ce52-40ce-8695-6ea80af3f113",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNS",
+                "40",
+                {
+                  "text": "JEONG Dohoon",
+                  "fisCode": "2537829"
+                },
+                "KOR",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "4921c7e7-c7e0-4f35-9893-7a7fd22f8636",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 508,
+      "resultTableId": 200407,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "36",
+                {
+                  "text": "FU Junyi",
+                  "fisCode": "2537258"
+                },
+                "CHN",
+                "18.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "46a12377-c767-4e63-a583-fda250fd458f",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "24",
+                {
+                  "text": "KOBAYASHI Ryuji",
+                  "fisCode": "2537124"
+                },
+                "JPN",
+                "17.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "5a268aae-be9e-45a5-b768-280176373cb7",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 509,
+      "resultTableId": 200408,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "8",
+                {
+                  "text": "VERDAGUER FORN Oliver",
+                  "fisCode": "2537082"
+                },
+                "ESP",
+                " "
+              ]
+            ],
+            "athleteUuid": "29ea315f-f007-4f35-b031-791b45f5c983",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 510,
+      "resultTableId": 200409,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "5",
+                {
+                  "text": "JEANNESSON Mateo",
+                  "fisCode": "2535572"
+                },
+                "GBR",
+                " "
+              ]
+            ],
+            "athleteUuid": "4e399cad-deee-42ab-b4cc-a5504ee3340a",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 511,
+      "resultTableId": 200410,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "49",
+                {
+                  "text": "GIANELLA Joel",
+                  "fisCode": "2539561"
+                },
+                "SUI",
+                "23.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "aaed15f4-01db-41e6-bc75-302736733dba",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "25",
+                {
+                  "text": "MOBERG Elis",
+                  "fisCode": "2537616"
+                },
+                "SWE",
+                "12.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "6270c9d4-b5a2-4ace-b52d-114389329618",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 512,
+      "resultTableId": 200411,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "26",
+                {
+                  "text": "FABIANI Mathis",
+                  "fisCode": "2535562"
+                },
+                "FRA",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "45fc1cf0-54a1-4e9b-9c78-e8696ace0ad7",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNS",
+                "46",
+                {
+                  "text": "LAMPI Eero",
+                  "fisCode": "2539446"
+                },
+                "FIN",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "134b0f93-415f-4106-9fb4-d18773bce653",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 513,
+      "resultTableId": 200412,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "19",
+                {
+                  "text": "NAKAMURA Takuto",
+                  "fisCode": "2537674"
+                },
+                "JPN",
+                " "
+              ]
+            ],
+            "athleteUuid": "bcf3c1de-54b1-41fa-89f9-0c9f129ecf9d",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 514,
+      "resultTableId": 200413,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "14",
+                {
+                  "text": "BOUGIE Jean-Christophe",
+                  "fisCode": "2538309"
+                },
+                "CAN",
+                " "
+              ]
+            ],
+            "athleteUuid": "ab1ecd0c-6380-4700-9d39-b77023f078ee",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 515,
+      "resultTableId": 200414,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "16",
+                {
+                  "text": "LEE Yoon Seung",
+                  "fisCode": "2537625"
+                },
+                "KOR",
+                "32.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "bdd9e1a4-2bb5-4faa-b382-18394115017b",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "47",
+                {
+                  "text": "MAHDII Dmytro",
+                  "fisCode": "2535303"
+                },
+                "UKR",
+                "3.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "e0351c8d-da46-4750-9b45-c49c393c8526",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 516,
+      "resultTableId": 200415,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "15",
+                {
+                  "text": "BILLEISEN Peyton",
+                  "fisCode": "2538057"
+                },
+                "USA",
+                "31.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "941ae7ad-7adb-4f3e-9826-20232e0cc6fd",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "43",
+                {
+                  "text": "ZVALENY Vit",
+                  "fisCode": "2539183"
+                },
+                "CZE",
+                "4.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "e23a3e04-7993-4036-9abc-9df53ecc5903",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 517,
+      "resultTableId": 200416,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "4",
+                {
+                  "text": "MICKEL Charlie",
+                  "fisCode": "2537180"
+                },
+                "USA",
+                " "
+              ]
+            ],
+            "athleteUuid": "e7d1728c-7e37-4fd7-82aa-f6e20feb4318",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 518,
+      "resultTableId": 200417,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "3",
+                {
+                  "text": "JUNG Daeyoon",
+                  "fisCode": "2534856"
+                },
+                "KOR",
+                " "
+              ]
+            ],
+            "athleteUuid": "dc16f3b0-c8aa-41a7-8c2a-d761d00fb22d",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 519,
+      "resultTableId": 200418,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "29",
+                {
+                  "text": "LOGAN Oliver",
+                  "fisCode": "2534330"
+                },
+                "AUS",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "f580631f-209e-457d-a854-cf3e1243eb18",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "45",
+                {
+                  "text": "DOOLEY Thomas",
+                  "fisCode": "2537599"
+                },
+                "IRL",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "ac1ba489-0685-4eb4-b4de-07df92656a55",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 520,
+      "resultTableId": 200419,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "30",
+                {
+                  "text": "RUSAKOV Semyon",
+                  "fisCode": "2537324"
+                },
+                "KAZ",
+                "33.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "e0061d3a-c888-4d39-ab56-f324819248e5",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "42",
+                {
+                  "text": "ZVALENY Filip",
+                  "fisCode": "2538534"
+                },
+                "CZE",
+                "2.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "e94ae815-65ec-44e2-8a86-7b0bf5f6cb2c",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 521,
+      "resultTableId": 200420,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "10",
+                {
+                  "text": "OLGAARD Robin",
+                  "fisCode": "2534212"
+                },
+                "SWE",
+                " "
+              ]
+            ],
+            "athleteUuid": "0ed040d3-f061-46b1-a0d4-d0643c250bac",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 522,
+      "resultTableId": 200421,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "11",
+                {
+                  "text": "LI Musai",
+                  "fisCode": "2537254"
+                },
+                "CHN",
+                " "
+              ]
+            ],
+            "athleteUuid": "f50025e9-0297-4b75-b357-ef14d80ee808",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 523,
+      "resultTableId": 200422,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "17",
+                {
+                  "text": "CROZET Leo",
+                  "fisCode": "2538029"
+                },
+                "FRA",
+                "23.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "da48a29c-baf4-43c3-b325-a34b2c66f62f",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "35",
+                {
+                  "text": "GAY Paul Andrea",
+                  "fisCode": "2538751"
+                },
+                "FRA",
+                "12.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "553c4100-140c-436d-b4cc-dbe55adcfdd9",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 524,
+      "resultTableId": 200423,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "31",
+                {
+                  "text": "YEMELYANOV Maxim",
+                  "fisCode": "2535387"
+                },
+                "KAZ",
+                "24.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "14ac0e7b-8f14-4261-84c5-6a4900b07246",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "44",
+                {
+                  "text": "RONKAINEN Matias",
+                  "fisCode": "2539451"
+                },
+                "FIN",
+                "11.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "32567443-7f5f-4347-88cf-2a4f4dbdc182",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 525,
+      "resultTableId": 200424,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "6",
+                {
+                  "text": "BUZZI Enea",
+                  "fisCode": "2533002"
+                },
+                "SUI",
+                " "
+              ]
+            ],
+            "athleteUuid": "ef437b3e-662d-4246-b237-17d102b033e4",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 526,
+      "resultTableId": 200425,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "7",
+                {
+                  "text": "OFFEL DE VILLAUCOURT Arthur",
+                  "fisCode": "2535561"
+                },
+                "FRA",
+                " "
+              ]
+            ],
+            "athleteUuid": "2024c5e4-341e-4d29-9343-f62ff8bd1e63",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 527,
+      "resultTableId": 200426,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "23",
+                {
+                  "text": "PETRONE Jack",
+                  "fisCode": "2535642"
+                },
+                "USA",
+                "28.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "abdcacd1-1631-4748-91ab-92d6689972b7",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "41",
+                {
+                  "text": "HILL Edward",
+                  "fisCode": "2537720"
+                },
+                "AUS",
+                "7.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "8eed4ca6-1dfd-454a-92fe-5bdee439e87f",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 528,
+      "resultTableId": 200427,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "34",
+                {
+                  "text": "PARADIS Louis",
+                  "fisCode": "2534246"
+                },
+                "CAN",
+                "26.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "d98c8966-f62f-4bed-97a0-37a4b506491d",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "39",
+                {
+                  "text": "KIM Jinsuck",
+                  "fisCode": "2537936"
+                },
+                "KOR",
+                "9.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "a56e824e-b5c1-487d-9d4c-73c1652ef855",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 529,
+      "resultTableId": 200428,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "12",
+                {
+                  "text": "VERDAGUER Lucas",
+                  "fisCode": "2535379"
+                },
+                "ESP",
+                " "
+              ]
+            ],
+            "athleteUuid": "359b7008-a1b8-4820-b9d2-a5789e210425",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 530,
+      "resultTableId": 200429,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "18",
+                {
+                  "text": "MICHEL Asher",
+                  "fisCode": "2537833"
+                },
+                "USA",
+                " "
+              ]
+            ],
+            "athleteUuid": "96c1dca9-2d8b-4500-b92d-a932bf92d551",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 531,
+      "resultTableId": 200430,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "22",
+                {
+                  "text": "PASCARELLA Paolo",
+                  "fisCode": "2534403"
+                },
+                "SUI",
+                " "
+              ]
+            ],
+            "athleteUuid": "c29c76ee-5b35-4b49-a736-3e0799a84032",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 532,
+      "resultTableId": 200431,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "37",
+                {
+                  "text": "LIVISSIANOS Mac",
+                  "fisCode": "2535793"
+                },
+                "AUS",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "a48577b6-dfab-4ba8-819b-895437905b2b",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNS",
+                "27",
+                {
+                  "text": "GAJDECKA Marek",
+                  "fisCode": "2535392"
+                },
+                "CZE",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "72d6a178-a1e1-49bc-b0ca-ef5e46fd4065",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 533,
+      "resultTableId": 200432,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                " ",
+                "2",
+                {
+                  "text": "HOLMGREN Emil",
+                  "fisCode": "2534210"
+                },
+                "SWE",
+                " "
+              ]
+            ],
+            "athleteUuid": "02c5a71d-460f-4209-9bf9-e8cfd0f7ad6f",
+            "highlightColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 534,
+      "resultTableId": 200501,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "1",
+                {
+                  "text": "GRAVENFORS Filip",
+                  "fisCode": "2534858"
+                },
+                "SWE",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "52b40dbe-4393-4b24-aceb-07116ccb9fd5",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "38",
+                {
+                  "text": "SAUVAGEAU Jeremy",
+                  "fisCode": "2538702"
+                },
+                "CAN",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "be9c1444-0023-45d5-875f-c2c29e125de3",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 535,
+      "resultTableId": 200502,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "20",
+                {
+                  "text": "KAWATA Jumpei",
+                  "fisCode": "2534825"
+                },
+                "JPN",
+                "21.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "e81a6ea2-cec9-4383-b815-47bc740292a4",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "21",
+                {
+                  "text": "BUGAKOV Fyodor",
+                  "fisCode": "2535809"
+                },
+                "KAZ",
+                "14.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "3a44fada-4d10-493a-a2e0-33973a325180",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 536,
+      "resultTableId": 200503,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "13",
+                {
+                  "text": "OZASA Kaisei",
+                  "fisCode": "2537149"
+                },
+                "JPN",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "90d69f25-4f26-419a-95c1-819a8da10551",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "32",
+                {
+                  "text": "DUBUC Joey",
+                  "fisCode": "2535858"
+                },
+                "CAN",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "9e2ee3b7-ce52-40ce-8695-6ea80af3f113",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 537,
+      "resultTableId": 200504,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "8",
+                {
+                  "text": "VERDAGUER FORN Oliver",
+                  "fisCode": "2537082"
+                },
+                "ESP",
+                "19.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "29ea315f-f007-4f35-b031-791b45f5c983",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "36",
+                {
+                  "text": "FU Junyi",
+                  "fisCode": "2537258"
+                },
+                "CHN",
+                "16.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "46a12377-c767-4e63-a583-fda250fd458f",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 538,
+      "resultTableId": 200505,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "5",
+                {
+                  "text": "JEANNESSON Mateo",
+                  "fisCode": "2535572"
+                },
+                "GBR",
+                "31.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "4e399cad-deee-42ab-b4cc-a5504ee3340a",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "49",
+                {
+                  "text": "GIANELLA Joel",
+                  "fisCode": "2539561"
+                },
+                "SUI",
+                "4.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "aaed15f4-01db-41e6-bc75-302736733dba",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 539,
+      "resultTableId": 200506,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "19",
+                {
+                  "text": "NAKAMURA Takuto",
+                  "fisCode": "2537674"
+                },
+                "JPN",
+                "20.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "bcf3c1de-54b1-41fa-89f9-0c9f129ecf9d",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "26",
+                {
+                  "text": "FABIANI Mathis",
+                  "fisCode": "2535562"
+                },
+                "FRA",
+                "15.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "45fc1cf0-54a1-4e9b-9c78-e8696ace0ad7",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 540,
+      "resultTableId": 200507,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "14",
+                {
+                  "text": "BOUGIE Jean-Christophe",
+                  "fisCode": "2538309"
+                },
+                "CAN",
+                "20.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "ab1ecd0c-6380-4700-9d39-b77023f078ee",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "16",
+                {
+                  "text": "LEE Yoon Seung",
+                  "fisCode": "2537625"
+                },
+                "KOR",
+                "15.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "bdd9e1a4-2bb5-4faa-b382-18394115017b",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 541,
+      "resultTableId": 200508,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "4",
+                {
+                  "text": "MICKEL Charlie",
+                  "fisCode": "2537180"
+                },
+                "USA",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "e7d1728c-7e37-4fd7-82aa-f6e20feb4318",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "15",
+                {
+                  "text": "BILLEISEN Peyton",
+                  "fisCode": "2538057"
+                },
+                "USA",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "941ae7ad-7adb-4f3e-9826-20232e0cc6fd",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 542,
+      "resultTableId": 200509,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "3",
+                {
+                  "text": "JUNG Daeyoon",
+                  "fisCode": "2534856"
+                },
+                "KOR",
+                "21.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "dc16f3b0-c8aa-41a7-8c2a-d761d00fb22d",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "29",
+                {
+                  "text": "LOGAN Oliver",
+                  "fisCode": "2534330"
+                },
+                "AUS",
+                "14.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "f580631f-209e-457d-a854-cf3e1243eb18",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 543,
+      "resultTableId": 200510,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "10",
+                {
+                  "text": "OLGAARD Robin",
+                  "fisCode": "2534212"
+                },
+                "SWE",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "0ed040d3-f061-46b1-a0d4-d0643c250bac",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "30",
+                {
+                  "text": "RUSAKOV Semyon",
+                  "fisCode": "2537324"
+                },
+                "KAZ",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "e0061d3a-c888-4d39-ab56-f324819248e5",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 544,
+      "resultTableId": 200511,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "17",
+                {
+                  "text": "CROZET Leo",
+                  "fisCode": "2538029"
+                },
+                "FRA",
+                "32.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "da48a29c-baf4-43c3-b325-a34b2c66f62f",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "11",
+                {
+                  "text": "LI Musai",
+                  "fisCode": "2537254"
+                },
+                "CHN",
+                "3.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "f50025e9-0297-4b75-b357-ef14d80ee808",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 545,
+      "resultTableId": 200512,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "6",
+                {
+                  "text": "BUZZI Enea",
+                  "fisCode": "2533002"
+                },
+                "SUI",
+                "20.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "ef437b3e-662d-4246-b237-17d102b033e4",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "31",
+                {
+                  "text": "YEMELYANOV Maxim",
+                  "fisCode": "2535387"
+                },
+                "KAZ",
+                "15.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "14ac0e7b-8f14-4261-84c5-6a4900b07246",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 546,
+      "resultTableId": 200513,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "23",
+                {
+                  "text": "PETRONE Jack",
+                  "fisCode": "2535642"
+                },
+                "USA",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "abdcacd1-1631-4748-91ab-92d6689972b7",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "7",
+                {
+                  "text": "OFFEL DE VILLAUCOURT Arthur",
+                  "fisCode": "2535561"
+                },
+                "FRA",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "2024c5e4-341e-4d29-9343-f62ff8bd1e63",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 547,
+      "resultTableId": 200514,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "34",
+                {
+                  "text": "PARADIS Louis",
+                  "fisCode": "2534246"
+                },
+                "CAN",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "d98c8966-f62f-4bed-97a0-37a4b506491d",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "12",
+                {
+                  "text": "VERDAGUER Lucas",
+                  "fisCode": "2535379"
+                },
+                "ESP",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "359b7008-a1b8-4820-b9d2-a5789e210425",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 548,
+      "resultTableId": 200515,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "18",
+                {
+                  "text": "MICHEL Asher",
+                  "fisCode": "2537833"
+                },
+                "USA",
+                "26.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "96c1dca9-2d8b-4500-b92d-a932bf92d551",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "22",
+                {
+                  "text": "PASCARELLA Paolo",
+                  "fisCode": "2534403"
+                },
+                "SUI",
+                "9.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "c29c76ee-5b35-4b49-a736-3e0799a84032",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 549,
+      "resultTableId": 200516,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "2",
+                {
+                  "text": "HOLMGREN Emil",
+                  "fisCode": "2534210"
+                },
+                "SWE",
+                "30.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "02c5a71d-460f-4209-9bf9-e8cfd0f7ad6f",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "37",
+                {
+                  "text": "LIVISSIANOS Mac",
+                  "fisCode": "2535793"
+                },
+                "AUS",
+                "5.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "a48577b6-dfab-4ba8-819b-895437905b2b",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 550,
+      "resultTableId": 200601,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "1",
+                {
+                  "text": "GRAVENFORS Filip",
+                  "fisCode": "2534858"
+                },
+                "SWE",
+                "25.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "52b40dbe-4393-4b24-aceb-07116ccb9fd5",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "20",
+                {
+                  "text": "KAWATA Jumpei",
+                  "fisCode": "2534825"
+                },
+                "JPN",
+                "10.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "e81a6ea2-cec9-4383-b815-47bc740292a4",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 551,
+      "resultTableId": 200602,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "8",
+                {
+                  "text": "VERDAGUER FORN Oliver",
+                  "fisCode": "2537082"
+                },
+                "ESP",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "29ea315f-f007-4f35-b031-791b45f5c983",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "13",
+                {
+                  "text": "OZASA Kaisei",
+                  "fisCode": "2537149"
+                },
+                "JPN",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "90d69f25-4f26-419a-95c1-819a8da10551",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 552,
+      "resultTableId": 200603,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "5",
+                {
+                  "text": "JEANNESSON Mateo",
+                  "fisCode": "2535572"
+                },
+                "GBR",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "4e399cad-deee-42ab-b4cc-a5504ee3340a",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "19",
+                {
+                  "text": "NAKAMURA Takuto",
+                  "fisCode": "2537674"
+                },
+                "JPN",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "bcf3c1de-54b1-41fa-89f9-0c9f129ecf9d",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 553,
+      "resultTableId": 200604,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "14",
+                {
+                  "text": "BOUGIE Jean-Christophe",
+                  "fisCode": "2538309"
+                },
+                "CAN",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "ab1ecd0c-6380-4700-9d39-b77023f078ee",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "4",
+                {
+                  "text": "MICKEL Charlie",
+                  "fisCode": "2537180"
+                },
+                "USA",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "e7d1728c-7e37-4fd7-82aa-f6e20feb4318",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 554,
+      "resultTableId": 200605,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "3",
+                {
+                  "text": "JUNG Daeyoon",
+                  "fisCode": "2534856"
+                },
+                "KOR",
+                "21.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "dc16f3b0-c8aa-41a7-8c2a-d761d00fb22d",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "10",
+                {
+                  "text": "OLGAARD Robin",
+                  "fisCode": "2534212"
+                },
+                "SWE",
+                "14.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "0ed040d3-f061-46b1-a0d4-d0643c250bac",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 555,
+      "resultTableId": 200606,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "6",
+                {
+                  "text": "BUZZI Enea",
+                  "fisCode": "2533002"
+                },
+                "SUI",
+                "20.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "ef437b3e-662d-4246-b237-17d102b033e4",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "17",
+                {
+                  "text": "CROZET Leo",
+                  "fisCode": "2538029"
+                },
+                "FRA",
+                "15.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "da48a29c-baf4-43c3-b325-a34b2c66f62f",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 568,
+      "resultTableId": 1,
+      "data": {
+        "showSeparatorAt": -2,
+        "entries": []
+      }
+    },
+    {
+      "competitionResultRevision": 569,
+      "resultTableId": 2,
+      "data": {
+        "showSeparatorAt": -2,
+        "entries": []
+      }
+    },
+    {
+      "competitionResultRevision": 570,
+      "resultTableId": 200607,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "23",
+                {
+                  "text": "PETRONE Jack",
+                  "fisCode": "2535642"
+                },
+                "USA",
+                "19.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "abdcacd1-1631-4748-91ab-92d6689972b7",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "34",
+                {
+                  "text": "PARADIS Louis",
+                  "fisCode": "2534246"
+                },
+                "CAN",
+                "16.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "d98c8966-f62f-4bed-97a0-37a4b506491d",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 574,
+      "resultTableId": 200608,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "2",
+                {
+                  "text": "HOLMGREN Emil",
+                  "fisCode": "2534210"
+                },
+                "SWE",
+                "20.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "02c5a71d-460f-4209-9bf9-e8cfd0f7ad6f",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "18",
+                {
+                  "text": "MICHEL Asher",
+                  "fisCode": "2537833"
+                },
+                "USA",
+                "15.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "96c1dca9-2d8b-4500-b92d-a932bf92d551",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 577,
+      "resultTableId": 100701,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "1",
+                {
+                  "text": "MACUGA Alli",
+                  "fisCode": "2534186"
+                },
+                "USA",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "6a97b1cb-0971-45db-8aee-6fc351b8eb6c",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "6",
+                {
+                  "text": "ITO Marin",
+                  "fisCode": "2534824"
+                },
+                "JPN",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "74af78cf-19d3-4086-81c3-ad237dd0c08e",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 580,
+      "resultTableId": 100702,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "3",
+                {
+                  "text": "KARIOTIS Kylie",
+                  "fisCode": "2534866"
+                },
+                "USA",
+                "19.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "c08463d9-f5f0-49ae-91e3-7bcab65cdf63",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "7",
+                {
+                  "text": "TAGUCHI Yuma",
+                  "fisCode": "2537043"
+                },
+                "JPN",
+                "16.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "b95896e3-ac49-4260-a0cb-4984597102d4",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 583,
+      "resultTableId": 100703,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "4",
+                {
+                  "text": "HOGG Kasey",
+                  "fisCode": "2534251"
+                },
+                "USA",
+                "21.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "55f6f388-61fb-46bb-966c-f865612c4e1b",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "10",
+                {
+                  "text": "KOEHLER Ashley",
+                  "fisCode": "2534528"
+                },
+                "CAN",
+                "14.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "6d3350f6-7cf0-4e64-b767-0bf2bddfd6c3",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 587,
+      "resultTableId": 100704,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "14",
+                {
+                  "text": "SLETTENE Skylar",
+                  "fisCode": "2535377"
+                },
+                "USA",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "861868fc-e1e8-4f68-a9ee-866df8414db7",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "5",
+                {
+                  "text": "ASANO Shiori",
+                  "fisCode": "2534377"
+                },
+                "JPN",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "eb7d3027-2406-4fc5-9a29-a5b29b0c3d79",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 591,
+      "resultTableId": 200701,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "1",
+                {
+                  "text": "GRAVENFORS Filip",
+                  "fisCode": "2534858"
+                },
+                "SWE",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "52b40dbe-4393-4b24-aceb-07116ccb9fd5",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "8",
+                {
+                  "text": "VERDAGUER FORN Oliver",
+                  "fisCode": "2537082"
+                },
+                "ESP",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "29ea315f-f007-4f35-b031-791b45f5c983",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 595,
+      "resultTableId": 200702,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "5",
+                {
+                  "text": "JEANNESSON Mateo",
+                  "fisCode": "2535572"
+                },
+                "GBR",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "4e399cad-deee-42ab-b4cc-a5504ee3340a",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "14",
+                {
+                  "text": "BOUGIE Jean-Christophe",
+                  "fisCode": "2538309"
+                },
+                "CAN",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "ab1ecd0c-6380-4700-9d39-b77023f078ee",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 598,
+      "resultTableId": 200703,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "3",
+                {
+                  "text": "JUNG Daeyoon",
+                  "fisCode": "2534856"
+                },
+                "KOR",
+                "24.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "dc16f3b0-c8aa-41a7-8c2a-d761d00fb22d",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "6",
+                {
+                  "text": "BUZZI Enea",
+                  "fisCode": "2533002"
+                },
+                "SUI",
+                "11.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "ef437b3e-662d-4246-b237-17d102b033e4",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 606,
+      "resultTableId": 200704,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "2",
+                {
+                  "text": "HOLMGREN Emil",
+                  "fisCode": "2534210"
+                },
+                "SWE",
+                "20.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "02c5a71d-460f-4209-9bf9-e8cfd0f7ad6f",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "23",
+                {
+                  "text": "PETRONE Jack",
+                  "fisCode": "2535642"
+                },
+                "USA",
+                "15.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "abdcacd1-1631-4748-91ab-92d6689972b7",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 607,
+      "resultTableId": 100801,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "1",
+                {
+                  "text": "MACUGA Alli",
+                  "fisCode": "2534186"
+                },
+                "USA",
+                "20.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "6a97b1cb-0971-45db-8aee-6fc351b8eb6c",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "3",
+                {
+                  "text": "KARIOTIS Kylie",
+                  "fisCode": "2534866"
+                },
+                "USA",
+                "15.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "c08463d9-f5f0-49ae-91e3-7bcab65cdf63",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 613,
+      "resultTableId": 100802,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "14",
+                {
+                  "text": "SLETTENE Skylar",
+                  "fisCode": "2535377"
+                },
+                "USA",
+                "18.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "861868fc-e1e8-4f68-a9ee-866df8414db7",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "4",
+                {
+                  "text": "HOGG Kasey",
+                  "fisCode": "2534251"
+                },
+                "USA",
+                "17.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "55f6f388-61fb-46bb-966c-f865612c4e1b",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 619,
+      "resultTableId": 200801,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "1",
+                {
+                  "text": "GRAVENFORS Filip",
+                  "fisCode": "2534858"
+                },
+                "SWE",
+                "22.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "52b40dbe-4393-4b24-aceb-07116ccb9fd5",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "5",
+                {
+                  "text": "JEANNESSON Mateo",
+                  "fisCode": "2535572"
+                },
+                "GBR",
+                "13.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "4e399cad-deee-42ab-b4cc-a5504ee3340a",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 625,
+      "resultTableId": 200802,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "2",
+                {
+                  "text": "HOLMGREN Emil",
+                  "fisCode": "2534210"
+                },
+                "SWE",
+                "20.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "02c5a71d-460f-4209-9bf9-e8cfd0f7ad6f",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "3",
+                {
+                  "text": "JUNG Daeyoon",
+                  "fisCode": "2534856"
+                },
+                "KOR",
+                "15.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "dc16f3b0-c8aa-41a7-8c2a-d761d00fb22d",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 634,
+      "resultTableId": 100851,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "3",
+                "3",
+                {
+                  "text": "KARIOTIS Kylie",
+                  "fisCode": "2534866"
+                },
+                "USA",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "c08463d9-f5f0-49ae-91e3-7bcab65cdf63",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "4",
+                {
+                  "text": "HOGG Kasey",
+                  "fisCode": "2534251"
+                },
+                "USA",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "55f6f388-61fb-46bb-966c-f865612c4e1b",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 644,
+      "resultTableId": 100852,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "1",
+                {
+                  "text": "MACUGA Alli",
+                  "fisCode": "2534186"
+                },
+                "USA",
+                "35.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "6a97b1cb-0971-45db-8aee-6fc351b8eb6c",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "14",
+                {
+                  "text": "SLETTENE Skylar",
+                  "fisCode": "2535377"
+                },
+                "USA",
+                " "
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "861868fc-e1e8-4f68-a9ee-866df8414db7",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 645,
+      "resultTableId": 1000000,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "1",
+                {
+                  "text": "MACUGA Alli",
+                  "fisCode": "2534186"
+                },
+                "USA"
+              ]
+            ],
+            "athleteUuid": "6a97b1cb-0971-45db-8aee-6fc351b8eb6c"
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "14",
+                {
+                  "text": "SLETTENE Skylar",
+                  "fisCode": "2535377"
+                },
+                "USA"
+              ]
+            ],
+            "athleteUuid": "861868fc-e1e8-4f68-a9ee-866df8414db7"
+          },
+          {
+            "values": [
+              [
+                "3",
+                "3",
+                {
+                  "text": "KARIOTIS Kylie",
+                  "fisCode": "2534866"
+                },
+                "USA"
+              ]
+            ],
+            "athleteUuid": "c08463d9-f5f0-49ae-91e3-7bcab65cdf63"
+          },
+          {
+            "values": [
+              [
+                "DNF",
+                "4",
+                {
+                  "text": "HOGG Kasey",
+                  "fisCode": "2534251"
+                },
+                "USA"
+              ]
+            ],
+            "athleteUuid": "55f6f388-61fb-46bb-966c-f865612c4e1b"
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 648,
+      "resultTableId": 200851,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "3",
+                "5",
+                {
+                  "text": "JEANNESSON Mateo",
+                  "fisCode": "2535572"
+                },
+                "GBR",
+                "23.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "4e399cad-deee-42ab-b4cc-a5504ee3340a",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "4",
+                "3",
+                {
+                  "text": "JUNG Daeyoon",
+                  "fisCode": "2534856"
+                },
+                "KOR",
+                "12.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "dc16f3b0-c8aa-41a7-8c2a-d761d00fb22d",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 650,
+      "resultTableId": 200852,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "1",
+                {
+                  "text": "GRAVENFORS Filip",
+                  "fisCode": "2534858"
+                },
+                "SWE",
+                "22.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "52b40dbe-4393-4b24-aceb-07116ccb9fd5",
+            "highlightColor": {
+              "r": 184,
+              "g": 62,
+              "b": 77,
+              "a": 0.5
+            }
+          },
+          {
+            "values": [
+              [
+                "2",
+                "2",
+                {
+                  "text": "HOLMGREN Emil",
+                  "fisCode": "2534210"
+                },
+                "SWE",
+                "13.00"
+              ],
+              [
+                " ",
+                {
+                  "text": " ",
+                  "colspan": "4",
+                  "align": "left"
+                }
+              ]
+            ],
+            "athleteUuid": "02c5a71d-460f-4209-9bf9-e8cfd0f7ad6f",
+            "highlightColor": {
+              "r": 102,
+              "g": 153,
+              "b": 204,
+              "a": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "competitionResultRevision": 651,
+      "resultTableId": 2000000,
+      "data": {
+        "entries": [
+          {
+            "values": [
+              [
+                "1",
+                "1",
+                {
+                  "text": "GRAVENFORS Filip",
+                  "fisCode": "2534858"
+                },
+                "SWE"
+              ]
+            ],
+            "athleteUuid": "52b40dbe-4393-4b24-aceb-07116ccb9fd5"
+          },
+          {
+            "values": [
+              [
+                "2",
+                "2",
+                {
+                  "text": "HOLMGREN Emil",
+                  "fisCode": "2534210"
+                },
+                "SWE"
+              ]
+            ],
+            "athleteUuid": "02c5a71d-460f-4209-9bf9-e8cfd0f7ad6f"
+          },
+          {
+            "values": [
+              [
+                "3",
+                "5",
+                {
+                  "text": "JEANNESSON Mateo",
+                  "fisCode": "2535572"
+                },
+                "GBR"
+              ]
+            ],
+            "athleteUuid": "4e399cad-deee-42ab-b4cc-a5504ee3340a"
+          },
+          {
+            "values": [
+              [
+                "4",
+                "3",
+                {
+                  "text": "JUNG Daeyoon",
+                  "fisCode": "2534856"
+                },
+                "KOR"
+              ]
+            ],
+            "athleteUuid": "dc16f3b0-c8aa-41a7-8c2a-d761d00fb22d"
+          }
+        ]
+      }
+    }
+  ]
+}
